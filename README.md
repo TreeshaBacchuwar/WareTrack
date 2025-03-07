@@ -1,7 +1,7 @@
-# 📦 Inventory Management System 🚀
+# 📦 Inventory Tracking System 🚀
 
 ## 🌟 Overview
-Welcome to the **Inventory Management System**, your ultimate tool for efficiently managing stock, tracking inventory values, and ensuring seamless business operations. Whether you're a small business owner or a supply chain manager, this system helps keep your inventory organized and optimized. 🏬📊
+Welcome to the **Inventory Tracking System**, your ultimate tool for efficiently managing stock, tracking inventory values, and ensuring seamless business operations. Whether you're a small business owner or a supply chain manager, this system helps keep your inventory organized and optimized. 🏬📊
 
 ## ✨ Features
 ✅ **Add, Update, & Remove Items** – Manage your inventory effortlessly.
