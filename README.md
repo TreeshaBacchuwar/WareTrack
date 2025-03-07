@@ -7,8 +7,7 @@ Welcome to the **Inventory Management System**, your ultimate tool for efficient
 ✅ **Add, Update, & Remove Items** – Manage your inventory effortlessly.
 ✅ **Real-Time Inventory Tracking** – Monitor inventory value over time.
 ✅ **Transaction History** – Keep a detailed log of all inventory changes.
-✅ **Low Stock Alerts** – Get notified about items running low.
-✅ **Smart Restocking** – Use dynamic programming to optimize restocking within budget constraints.
+✅ **Low Stock** – Get notified about items running low.
 ✅ **Data Persistence** – Store and retrieve inventory data in JSON format.
 
 ## 🛠 Technologies Used
