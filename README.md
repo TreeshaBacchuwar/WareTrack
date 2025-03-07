@@ -67,11 +67,6 @@ inventory.save_to_file("inventory_data.json")
 inventory.load_from_file("inventory_data.json")
 ```
 
-### 🤖 Optimal Restocking
-```python
-restocking_plan = inventory.optimal_restocking(items_with_max_quantities, budget=5000)
-```
-
 ## 📂 Project Structure
 ```
 Inventory-Management/
@@ -87,8 +82,8 @@ Inventory-Management/
 🔖 This project is licensed under the **MIT License**.
 
 ## 👥 Contributors
-💡 **Your Name** - Lead Developer & Architect
+💡 **Treesha Bacchuwar** - Lead Developer & Architect
 
 ## 📬 Contact
-📧 Feel free to reach out via **your-email@example.com** or check out my work on [GitHub](https://github.com/yourusername). 🚀
+📧 Feel free to reach out via **treesha2004@gmail.com** or check out my work on [GitHub](https://github.com/TreeshaBacchuwar)). 🚀
 
