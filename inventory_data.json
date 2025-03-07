@@ -1,0 +1,107 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "tshirt",
+            "quantity": 15,
+            "price": 500.0,
+            "category": "Fashion"
+        },
+        {
+            "id": 2,
+            "name": "jeans",
+            "quantity": 30,
+            "price": 1000.0,
+            "category": "Fashion"
+        },
+        {
+            "id": 4,
+            "name": "laptop",
+            "quantity": 5,
+            "price": 50000.0,
+            "category": "Electronics"
+        },
+        {
+            "id": 3,
+            "name": "Colddrinks",
+            "quantity": 100,
+            "price": 50.0,
+            "category": "Food"
+        }
+    ],
+    "history": [
+        [
+            "2025-03-05 23:31:32",
+            7500.0,
+            {
+                "Fashion": 7500.0
+            }
+        ],
+        [
+            "2025-03-05 23:31:56",
+            37500.0,
+            {
+                "Fashion": 37500.0
+            }
+        ],
+        [
+            "2025-03-05 23:32:25",
+            337500.0,
+            {
+                "Fashion": 37500.0,
+                "Electronics": 300000.0
+            }
+        ],
+        [
+            "2025-03-05 23:43:59",
+            587500.0,
+            {
+                "Fashion": 37500.0,
+                "Electronics": 550000.0
+            }
+        ],
+        [
+            "2025-03-06 00:57:29",
+            287500.0,
+            {
+                "Fashion": 37500.0,
+                "Electronics": 250000.0
+            }
+        ],
+        [
+            "2025-03-06 14:24:32",
+            292500.0,
+            {
+                "Fashion": 37500.0,
+                "Electronics": 250000.0,
+                "Food": 5000.0
+            }
+        ]
+    ],
+    "transactions": [
+        [
+            "2025-03-05 23:31:32",
+            "Added item 1: tshirt"
+        ],
+        [
+            "2025-03-05 23:31:56",
+            "Added item 2: jeans"
+        ],
+        [
+            "2025-03-05 23:32:25",
+            "Added item 3: phones"
+        ],
+        [
+            "2025-03-05 23:43:59",
+            "Added item 4: laptop"
+        ],
+        [
+            "2025-03-06 00:57:29",
+            "Removed item 3: phones"
+        ],
+        [
+            "2025-03-06 14:24:32",
+            "Added item 3: Colddrinks"
+        ]
+    ]
+}
